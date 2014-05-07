@@ -1,1 +1,0 @@
-web: mot.la
